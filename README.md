@@ -10,6 +10,7 @@
   `id 'com.jiaguPlugin'`
   
   
+```
   jiagu {
     username '16675379395'
     password 'xxxx'
@@ -20,6 +21,7 @@
     jiaguToolPath 'jiagu.jar'
   }
 
+```
   
 
  
