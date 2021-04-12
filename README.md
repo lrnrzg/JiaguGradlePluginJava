@@ -1,5 +1,5 @@
 # JiaguGradlePluginJava
-自定义 gradle 插件 对 apk 「360加固」
+Android 自定义 gradle 插件 对 apk 「360加固」
 
 1. build.gradle(project)添加对插件的依赖
    
