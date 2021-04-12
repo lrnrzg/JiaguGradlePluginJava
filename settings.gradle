@@ -1,0 +1,3 @@
+include ':jiaguPlugin'
+include ':app'
+rootProject.name = "JiaguGradlePluginJava"
